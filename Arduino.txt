@@ -96,7 +96,5 @@ void step_motor(int s,int z)
      }
   }
   last_z=z;
-  
- 
 }
 
